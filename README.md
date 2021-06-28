@@ -1,5 +1,6 @@
 <div align="center">
-    <img src="assets/vue-js-logo.png">
+    <img src="assets/vue-js-logo.png"
+    widht="200px" height="140px">
 </div>
 
 # Estudos Vue.JS
